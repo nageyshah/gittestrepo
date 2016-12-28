@@ -25,6 +25,17 @@ public class HibernateUtil {
     public static SessionFactory getSessionFactory() {
         return sessionFactory;
     }
+    
+    public void testforGITVB{
+		
+		Double addedforGITVB;
+		
+		while(false){
+			
+			// this line is added from VB for GIT Test 11:06
+		}
+		
+	}
 	
 }
 
