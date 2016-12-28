@@ -35,5 +35,15 @@ public class HibernateUtil {
 		}
 
 	}
+	
+	public void testFunctionAddedforGITVB() {
+
+		Double addedforGITVB;
+
+		while(false) {
+			// added as a function from laptop..
+		}
+
+	}
 
 }
