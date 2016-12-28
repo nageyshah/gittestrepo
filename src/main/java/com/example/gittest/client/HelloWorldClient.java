@@ -79,6 +79,17 @@ public class HelloWorldClient {
 		
 		
 	}
+	
+	public void masteradvancesonePoint(){
+		
+		Integer addedforGITLP;
+		
+		for(int i=0;i<5;i++){
+			// added as a function from latop..
+		}
+		
+		
+	}
 }
 
 
