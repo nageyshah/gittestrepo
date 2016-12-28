@@ -47,11 +47,13 @@ public class HibernateUtil {
 >>>>>>> origin/master*/
 		// They were all wrong I updated as final..
 		Double addedforGITVB44;
+		Double addedforcheckouttest;
 		
 		while(true) {
 			
 			System.out.println("you forgot to add this code and while was false");
 			// added as a function from laptop..
+			// made this change on the test1 branch
 		}
 
 	}
