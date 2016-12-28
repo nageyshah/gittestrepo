@@ -35,5 +35,23 @@ public class HibernateUtil {
 		}
 
 	}
+	
+	public void testFunctionAddedforGITVB() {
+
+<<<<<<< HEAD
+		// Mismatch from Laptop
+		Double addedforGITVB33;
+=======
+		// I made this to create a mismatch
+		Double addedforGITVB22;
+>>>>>>> origin/master
+
+		while(true) {
+			
+			System.out.println("you forgot to add this code and while was false");
+			// added as a function from laptop..
+		}
+
+	}
 
 }

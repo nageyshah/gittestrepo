@@ -38,9 +38,16 @@ public class HibernateUtil {
 	
 	public void testFunctionAddedforGITVB() {
 
+/*<<<<<<< HEAD
 		// Mismatch from Laptop
 		Double addedforGITVB33;
-
+=======
+		// I made this to create a mismatch
+		Double addedforGITVB22;
+>>>>>>> origin/master*/
+		// They were all wrong I updated as final..
+		Double addedforGITVB44;
+		
 		while(true) {
 			
 			System.out.println("you forgot to add this code and while was false");
